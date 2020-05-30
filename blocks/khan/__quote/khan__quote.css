@@ -1,0 +1,9 @@
+/*Ширина задана в соответствии с требованиями брифа, но визуально не соответствует ему*/
+
+.khan__quote {
+  max-width: 790px;
+  margin: 0 0 36px;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}

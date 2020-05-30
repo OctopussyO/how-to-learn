@@ -1,0 +1,18 @@
+@import url(./__logo-zone/resources__logo-zone.css);
+@import url(./__logo/resources__logo.css);
+
+.resources {
+  padding: 100px 0 217px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}

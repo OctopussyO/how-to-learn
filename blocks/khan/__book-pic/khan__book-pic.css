@@ -1,0 +1,10 @@
+/*По брифу отступ 48px, хотя визуально это не соответствует макету*/
+
+.khan__book-pic {
+  margin-right: 48px;
+  width: 608px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: top;
+     object-position: top;
+}
